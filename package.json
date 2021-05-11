@@ -30,6 +30,6 @@
     "shx": "^0.3.2"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
